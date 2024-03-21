@@ -40,7 +40,7 @@ while(ulang){
         // menampilkan hasil
         alert('Kamu memilih : ' + p + ' dan komputer memilih ' + comp + '\nMaka hasilnya : KAMU ' + hasil);
 
-        tanya = confirm('Apakah kamu ingin mengulangi permainan?');
+        ulang = confirm('Apakah kamu ingin mengulangi permainan?');
 }
 
 alert('Terima Kasih Sudah Bermain.');
